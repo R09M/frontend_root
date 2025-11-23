@@ -1,6 +1,6 @@
 # 🌐 React 기반 스마트팜 IoT 기기 연동 및 식물 성장 대시보드・모니터링 구축
 
-[![Notion](https://img.shields.io/badge/Notion-Details-F7F6F3?style=flat&logo=notion&logoColor=000000)](https://is.gd/JrYoyg)
+[![Notion](https://img.shields.io/badge/Notion-Details-F7F6F3?style=flat&logo=notion&logoColor=000000)](https://is.gd/QzNXbB)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)

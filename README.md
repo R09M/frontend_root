@@ -33,6 +33,9 @@
 ## ✨ 주요 기능
 
 ### 1️⃣ 회원가입 시스템
+
+<img src="./docs/images/Join.jpg" width="800">
+
 정규표현식 기반 실시간 유효성 검사, 아이디 중복 확인 API, 이메일 인증, 필수 약관 동의, `BCrypt` 단방향 암호화를 구현했습니다.
 
 **주요 성과**
@@ -41,6 +44,9 @@
 - 아이디 중복 확인으로 가입 실패 사전 방지
 
 ### 2️⃣ 로그인 시스템
+
+<img src="./docs/images/Login.jpg" width="800">
+
 `POST` 방식 인증, `BCrypt` 비밀번호 검증, 아이디 저장 `localStorage`, 세션 관리 `sessionStorage`, 탭 기반 아이디·비밀번호 찾기를 구현했습니다.
 
 **주요 성과**
@@ -49,6 +55,9 @@
 - `sessionStorage`로 탭 종료 시 자동 로그아웃 처리
 
 ### 3️⃣ 이메일 인증 시스템
+
+<img src="./docs/images/Mail.jpg" width="800">
+
 Gmail SMTP 연동, 6자리 인증번호 생성, 5분 타이머, HTML 베이지 톤 템플릿 디자인, 임시 비밀번호 발급 기능을 구현했습니다.
 
 **주요 성과**
